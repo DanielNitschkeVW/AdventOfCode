@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="818a90bd-d52b-4e98-8d8f-33d33b130eb1" name="Default Changelist" comment="Project creation and solutions for day 1 and 2">
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/Second.java" afterDir="false" />
+    <list default="true" id="818a90bd-d52b-4e98-8d8f-33d33b130eb1" name="Default Changelist" comment="Added solutions for year 2020 day 1 - 5">
+      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day1/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day1/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day2/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day2/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day3/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day3/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day4/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day4/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day5/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day5/Second.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/Second.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +50,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Solutions/Year2021/Day2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Solutions/Year2020/Day5" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\anymu\Downloads\AdventOfCode\src\Solutions\Year2021\Day2" />
+      <recent name="C:\Users\anymu\Downloads\AdventOfCode\src\Solutions\Year2020\Day5" />
+      <recent name="C:\Users\anymu\Downloads\AdventOfCode\src\Solutions\Year2020\Day4" />
+      <recent name="C:\Users\anymu\Downloads\AdventOfCode\src\Solutions\Year2020\Day3" />
+      <recent name="C:\Users\anymu\Downloads\AdventOfCode\src\Solutions\Year2020\Day2" />
+      <recent name="C:\Users\anymu\Downloads\AdventOfCode\src\Solutions\Year2020\Day1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Solutions.Year2021.Day1" />
@@ -80,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638427273804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactored the solution solver&#10;&#10;Each days and stars solution has a different class now to prevent unintentional self-spoiling/cheating">
+      <created>1638437665941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638437665941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project creation and solutions for day 1 and 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project creation and solutions for day 1 and 2" />
+    <MESSAGE value="Refactored the solution solver&#10;&#10;Each days and stars solution has a different class now to prevent unintentional self-spoiling/cheating" />
+    <MESSAGE value="Added solutions for year 2020 day 1 - 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solutions for year 2020 day 1 - 5" />
   </component>
 </project>

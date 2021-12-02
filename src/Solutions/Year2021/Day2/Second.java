@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 
 public class Second {
 
-    public static String solve(List<String> list) {
+    public static String solver(List<String> list) {
         int aim = 0;
         int horizontalPosition = 0;
         int depth = 0;
