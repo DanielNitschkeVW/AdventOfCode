@@ -24,8 +24,17 @@ class Main {
                 new DayInputFile("2020, Day 1 A", "./InputFiles/2020-day1", Solutions.Year2020.Day1.First::solver)
         ).collect(Collectors.toList());
 
+
+        System.out.println("== 2021 ==");
+        for (DayInputFile day : days2021) {
+            System.out.printf("%s : %s%n", day.getName(), day.solve());
+        }
+        System.out.println();
+
+        System.out.println("== 2020 ==");
         for (DayInputFile day : days2020) {
             System.out.printf("%s : %s%n", day.getName(), day.solve());
         }
+        System.out.println();
     }
 }

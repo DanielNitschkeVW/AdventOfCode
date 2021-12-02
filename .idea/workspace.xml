@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="818a90bd-d52b-4e98-8d8f-33d33b130eb1" name="Default Changelist" comment="Added solutions for year 2020 day 1 - 5">
-      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputFiles/2020-day5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day1/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day1/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day2/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day2/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day3/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day3/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day4/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day4/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day5/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2020/Day5/Second.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/Second.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/Second.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638437665941</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added solutions for year 2020 day 1 - 5">
+      <created>1638459067062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638459067063</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
