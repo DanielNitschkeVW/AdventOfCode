@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="818a90bd-d52b-4e98-8d8f-33d33b130eb1" name="Default Changelist" comment="Project creation and solutions for day 1 and 2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AdventOfCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputFiles/2021-day1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputFiles/2021-day2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DayInputFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutions2021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day1/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Year2021/Day2/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +34,19 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Solutions/Year2021/Day2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anymu\Downloads\AdventOfCode\src\Solutions\Year2021\Day2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Solutions.Year2021.Day1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -69,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1638425732388</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project creation and solutions for day 1 and 2">
+      <created>1638427273804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638427273804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
