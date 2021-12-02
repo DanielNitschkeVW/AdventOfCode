@@ -31,6 +31,7 @@ class Main {
         }
         System.out.println();
 
+
         System.out.println("== 2020 ==");
         for (DayInputFile day : days2020) {
             System.out.printf("%s : %s%n", day.getName(), day.solve());

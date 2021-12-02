@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="818a90bd-d52b-4e98-8d8f-33d33b130eb1" name="Default Changelist" comment="Added solutions for year 2020 day 1 - 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="818a90bd-d52b-4e98-8d8f-33d33b130eb1" name="Default Changelist" comment="fixed printouts to properly display 2021 and 2020 results">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638459067063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed printouts to properly display 2021 and 2020 results">
+      <created>1638459214869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638459214869</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +118,7 @@
     <MESSAGE value="Project creation and solutions for day 1 and 2" />
     <MESSAGE value="Refactored the solution solver&#10;&#10;Each days and stars solution has a different class now to prevent unintentional self-spoiling/cheating" />
     <MESSAGE value="Added solutions for year 2020 day 1 - 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solutions for year 2020 day 1 - 5" />
+    <MESSAGE value="fixed printouts to properly display 2021 and 2020 results" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed printouts to properly display 2021 and 2020 results" />
   </component>
 </project>
