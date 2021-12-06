@@ -1,6 +1,5 @@
 import java.nio.charset.Charset;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.function.Function;
@@ -20,10 +19,6 @@ public class DayInputFile {
 
     public String getName() {
         return name;
-    }
-
-    public String getPath() {
-        return path;
     }
 
     public String solve() {
