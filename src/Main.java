@@ -5,8 +5,11 @@ import java.util.stream.Stream;
 class Main {
     public static void main(String[] args) {
 
+
         System.out.println("== 2021 ==");
         Stream.of(
+                new DayInputFile("2021, Day 7 B", "./InputFiles/2021/7", Solutions.Year2021.Day7.Second::solver),
+                new DayInputFile("2021, Day 7 A", "./InputFiles/2021/7", Solutions.Year2021.Day7.First::solver),
                 new DayInputFile("2021, Day 6 B", "./InputFiles/2021/6", Solutions.Year2021.Day6.Second::solver),
                 new DayInputFile("2021, Day 6 A", "./InputFiles/2021/6", Solutions.Year2021.Day6.First::solver),
                 new DayInputFile("2021, Day 5 B", "./InputFiles/2021/5", Solutions.Year2021.Day5.Second::solver),
@@ -23,10 +26,11 @@ class Main {
                 .forEach(day -> System.out.printf("%s : %s%n", day.getName(), day.solve()));
         System.out.println();
 
-        System.exit(0);
-
+        /*
         System.out.println("== 2020 ==");
         Stream.of(
+                new DayInputFile("2020, Day 7 B", "./InputFiles/2020/7", Solutions.Year2020.Day7.Second::solver),
+                new DayInputFile("2020, Day 7 A", "./InputFiles/2020/7", Solutions.Year2020.Day7.First::solver),
                 new DayInputFile("2020, Day 6 B", "./InputFiles/2020/6", Solutions.Year2020.Day6.Second::solver),
                 new DayInputFile("2020, Day 6 A", "./InputFiles/2020/6", Solutions.Year2020.Day6.First::solver),
                 new DayInputFile("2020, Day 5 B", "./InputFiles/2020/5", Solutions.Year2020.Day5.Second::solver),
@@ -42,5 +46,6 @@ class Main {
         ).collect(Collectors.toList())
                 .forEach(day -> System.out.printf("%s : %s%n", day.getName(), day.solve()));
         System.out.println();
+        */
     }
 }
