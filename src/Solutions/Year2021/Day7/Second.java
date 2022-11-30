@@ -20,6 +20,7 @@ public class Second {
                 newCost += cost;
             }
         }
+
         return String.valueOf(oldCost);
     }
 }
