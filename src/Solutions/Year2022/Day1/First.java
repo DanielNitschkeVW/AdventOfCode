@@ -12,7 +12,6 @@ public class First {
         int runningSum = 0;
         for(String caloriesEntry : list) {
             if (caloriesEntry.isEmpty()) {
-
                 max = Math.max(max, runningSum);
                 runningSum = 0;
                 continue;
