@@ -5,10 +5,10 @@ import java.util.List;
 public class Second {
 
     public static String solver(List<String> list) {
-        return String.valueOf(list.stream().filter(Second::fullyContains).count());
+        return String.valueOf(list.stream().filter(Second::partiallyContains).count());
     }
 
-    public static boolean fullyContains(String priority) {
+    public static boolean partiallyContains(String priority) {
         String[] elves = priority.split(",");
         String[] elf1priorities = elves[0].split("-");
         String[] elf2priorities = elves[1].split("-");
