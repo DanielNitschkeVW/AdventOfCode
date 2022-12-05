@@ -11,6 +11,8 @@ class Main {
         System.out.println("== 2022 ==");
 
         Stream.of(
+            new DayInputFile("2022, Day 5 B", "./InputFiles/2022/5", Solutions.Year2022.Day5.Second::solver),
+            new DayInputFile("2022, Day 5 A", "./InputFiles/2022/5", Solutions.Year2022.Day5.First::solver),
             new DayInputFile("2022, Day 4 B", "./InputFiles/2022/4", Solutions.Year2022.Day4.Second::solver),
             new DayInputFile("2022, Day 4 A", "./InputFiles/2022/4", Solutions.Year2022.Day4.First::solver),
             new DayInputFile("2022, Day 3 B", "./InputFiles/2022/3", Solutions.Year2022.Day3.Second::solver),
